@@ -910,7 +910,7 @@ header .mega .links li a i {
 }
 
 @media (max-width:767px) {
-    .team-members .box .data .icons a {
+    .team-members .container .box .data .icons a {
         margin-right: 70px;
     }
 }
