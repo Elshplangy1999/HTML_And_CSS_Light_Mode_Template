@@ -328,6 +328,12 @@ header .mega .links li:not(:last-child) {
     }
 }
 
+@media(max-width : 767px){
+    header .mega .links:last-child li:nth-child(5) {
+        border-bottom: none;
+    }
+}
+
 header .mega .links li::before {
     content: "";
     position: absolute;
